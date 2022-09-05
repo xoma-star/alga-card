@@ -1,3 +1,4 @@
+//@ts-ignore
 import alga from '../misc/card.svg'
 import bridge from "@vkontakte/vk-bridge";
 
